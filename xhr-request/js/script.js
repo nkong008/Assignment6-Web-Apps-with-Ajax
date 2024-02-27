@@ -129,6 +129,10 @@
     function updateUISuccess(responseText) {
         var response = JSON.parse(responseText);
         // var condition = response.artworks[0].main;
+            
+
+
+
 
         // need help with variables inorder to target them and display them onto the browser
 
